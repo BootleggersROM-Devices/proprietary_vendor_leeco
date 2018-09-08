@@ -862,8 +862,6 @@ PRODUCT_PACKAGES += \
     ims \
     imssettings \
     uceShimService \
-    CNEService \
-    com.qualcomm.location \
     dpmserviceapp \
     qcrilmsgtunnel \
     TimeService \
